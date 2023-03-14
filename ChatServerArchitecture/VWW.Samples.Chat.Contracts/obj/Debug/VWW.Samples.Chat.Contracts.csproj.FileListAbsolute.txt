@@ -1,0 +1,17 @@
+C:\Ressources\VWW.Samples.Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Ressources\VWW.Samples.Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Ressources\VWW.Samples.Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.csprojResolveAssemblyReference.cache
+C:\Ressources\VWW.Samples.Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Ressources\VWW.Samples.Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.csprojAssemblyReference.cache
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\schulz\Desktop\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\bin\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.csproj.AssemblyReference.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Contracts\obj\Debug\VWW.Samples.Chat.Contracts.pdb

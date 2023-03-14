@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PlugIns.App",
+    "\\PlugIns.Contract",
+    "\\PlugIns.Contract\\Properties",
+    "\\PlugIns.PlugIn",
+    "\\PlugIns.PlugIn\\obj",
+    "\\PlugIns.PlugIn\\obj\\Debug",
+    "\\PlugIns.PlugIn\\Properties"
+  ],
+  "SelectedNode": "\\PlugIns.App\\PlugIns.App.csproj",
+  "PreviewInSolutionExplorer": false
+}
