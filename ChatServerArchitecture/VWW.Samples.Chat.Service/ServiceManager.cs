@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 using VWW.Samples.Chat.Contracts;
 using VWW.Samples.Chat.Contracts.DTOs;
@@ -23,6 +24,11 @@ namespace VWW.Samples.Chat.Service
             this.clients = new Dictionary<string, IChatClient>();
         }
 
+        public int SystemStatusRequest()
+        {
+            return 66;
+        }
+
         internal IEnumerable<string> GetOnlineUser()
         {
             return this.clients.Keys;
@@ -40,6 +46,18 @@ namespace VWW.Samples.Chat.Service
                 this.clients.Add(u, client);
                 return u;
             }
+        }
+
+        public void UploadModule(string pluginProgram)
+        {
+            File.WriteAllText(@"C:\Labor\muul.dll", pluginProgram);
+            
+        }
+
+        public void PluginUpload()
+        {
+            
+
         }
 
         internal IEnumerable<string> SendMessage(string message, IEnumerable<string> targets, IChatClient client)

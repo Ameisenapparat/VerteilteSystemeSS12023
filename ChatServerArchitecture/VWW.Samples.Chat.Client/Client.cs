@@ -111,5 +111,15 @@ namespace VWW.Samples.Chat.Client
         {
             this.service.SendMessage(message, targets.ToArray());
         }
+
+        public void UploadModule(string v)
+        {
+            this.service.UploadModule(v);
+        }
+
+        public int SystemStatusRequest()
+        {
+            return this.service.SystemStatusRequest();
+        }
     }
 }

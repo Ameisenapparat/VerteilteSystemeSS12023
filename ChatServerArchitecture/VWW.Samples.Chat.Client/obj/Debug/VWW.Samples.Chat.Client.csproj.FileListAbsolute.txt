@@ -26,3 +26,13 @@ C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Clie
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.csproj.CopyComplete
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.dll
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.csproj.AssemblyReference.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.csproj.CoreCompileInputs.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\bin\Debug\VWW.Samples.Chat.Client.dll.config
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\bin\Debug\VWW.Samples.Chat.Client.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\bin\Debug\VWW.Samples.Chat.Client.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\bin\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\bin\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Client\obj\Debug\VWW.Samples.Chat.Client.csproj.CopyComplete

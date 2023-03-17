@@ -29,7 +29,7 @@ namespace VWW.Samples.Chat.Client.UI
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = "Moin, ich bin Dänish";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

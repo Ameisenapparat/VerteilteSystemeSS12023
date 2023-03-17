@@ -16,3 +16,12 @@ C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\PluginAss\PlugIns.PlugIn\bin\Debug\
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\PluginAss\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.AssemblyReference.cache
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\PluginAss\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.CoreCompileInputs.cache
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\PluginAss\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.CopyComplete
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\bin\Debug\PlugIns.PlugIn.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\bin\Debug\PlugIns.PlugIn.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\bin\Debug\PlugIns.Contract.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\bin\Debug\PlugIns.Contract.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.AssemblyReference.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.CoreCompileInputs.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.csproj.CopyComplete
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\obj\Debug\PlugIns.PlugIn.pdb

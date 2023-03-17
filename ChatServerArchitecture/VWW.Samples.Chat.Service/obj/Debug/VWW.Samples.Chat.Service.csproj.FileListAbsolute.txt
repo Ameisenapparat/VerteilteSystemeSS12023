@@ -23,3 +23,12 @@ C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Serv
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.csproj.CopyComplete
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.dll
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\bin\Debug\VWW.Samples.Chat.Service.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\bin\Debug\VWW.Samples.Chat.Service.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\bin\Debug\VWW.Samples.Chat.Contracts.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\bin\Debug\VWW.Samples.Chat.Contracts.pdb
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.csproj.AssemblyReference.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.csproj.CopyComplete
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.dll
+C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Service\obj\Debug\VWW.Samples.Chat.Service.pdb
