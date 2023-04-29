@@ -32,15 +32,3 @@ C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Serv
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.csproj.CopyComplete
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.exe
 C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\Beispiel_Chat\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.pdb
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Server.exe.config
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Server.exe
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Server.pdb
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Service.dll
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Contracts.dll
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Service.pdb
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\bin\Debug\VWW.Samples.Chat.Contracts.pdb
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.csproj.AssemblyReference.cache
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.csproj.CoreCompileInputs.cache
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.csproj.CopyComplete
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.exe
-C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\ChatServerArchitecture\VWW.Samples.Chat.Server\obj\Debug\VWW.Samples.Chat.Server.pdb

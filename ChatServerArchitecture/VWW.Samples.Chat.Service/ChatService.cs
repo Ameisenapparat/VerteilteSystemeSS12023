@@ -31,16 +31,6 @@ namespace VWW.Samples.Chat.Service
             ServiceManager.Instance.SendMessage(msg, OperationContext.Current.GetCallbackChannel<IChatClient>());
         }
 
-        public int SystemStatusRequest()
-        {
-            return ServiceManager.Instance.SystemStatusRequest();
-        }
-
-        public void UploadModule(string v)
-        {
-            ServiceManager.Instance.UploadModule(v);
-        }
-
         public string[] SendMessage(string message, string[] targets)
         {
             return ServiceManager.Instance.SendMessage(message, targets, OperationContext.Current.GetCallbackChannel<IChatClient>()).ToArray();

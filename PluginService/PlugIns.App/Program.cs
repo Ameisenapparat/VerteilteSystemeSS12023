@@ -14,7 +14,7 @@ namespace PlugIns.App
         {
             List<PlugIns.Contract.MyPlugin> myPlugins = new List<Contract.MyPlugin>();
 
-            const string path = @"C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\VerteilteSystemeSS12023\PluginService\PlugIns.PlugIn\bin\Debug";
+            const string path = @"C:\Users\Riesenhuhn\Desktop\VerteilteSysteme\PluginAss\PlugIns.PlugIn\bin\Debug";
             var dlls = Directory.GetFiles(path, "*.dll");
             foreach (var dll in dlls)
             {

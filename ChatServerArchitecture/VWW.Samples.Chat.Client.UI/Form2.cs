@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -14,9 +12,6 @@ namespace VWW.Samples.Chat.Client.UI
 {
     public partial class Form2 : Form
     {
-        private Button selectButton;
-        private OpenFileDialog openFileDialog1;
-        private TextBox textBoxalfa;
         public IClient Client { get; set; }
         public Form2()
         {
@@ -76,43 +71,22 @@ namespace VWW.Samples.Chat.Client.UI
 
         private void label3_Click(object sender, EventArgs e)
         {
-            this.textBoxHistory.Text += Environment.NewLine + " uploading a new module";
+
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
-            this.textBoxHistory.Text += Environment.NewLine + " uploading a new module";
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            this.textBoxHistory.Text += Environment.NewLine + " uploading a new module";
-        }
-
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            this.textBoxHistory.Text += Environment.NewLine + " uploading a new module";
-
-          // var src = new StreamReader(textBox1.Text);
-          // this.textBoxHistory.Text += Environment.NewLine + src.ReadToEnd();
-          
-            
-            using (StreamReader reader = new StreamReader(textBox1.Text))
+            if (string.IsNullOrWhiteSpace(textBox1.Text))
+                return;
+            if (listBox1.SelectedItems.Count == 0)
             {
-                string content = reader.ReadToEnd();
-                this.Client.UploadModule(content);
-              //  File.WriteAllText(@"C:\Labor\mor.txt", content);
-              
+                this.Client.SendBroadcast(textBox1.Text);
             }
-
-        }
-
-        private void button2_Click_1(object sender, EventArgs e)
-        {
-            this.label7.Text += this.Client.SystemStatusRequest();
-
+            else
+            {
+                this.Client.SendMessage(textBox1.Text, listBox1.SelectedItems.Cast<string>());
+            }
+            textBox1.Text = "";
         }
     }
 }

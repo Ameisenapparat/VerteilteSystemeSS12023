@@ -11,7 +11,6 @@ namespace VWW.Samples.Chat.Contracts
     [ServiceContract(CallbackContract = typeof(IChatClient))]
     public interface IChatService
     {
-
         [OperationContract]
         [ServiceKnownType(typeof(LoginResponse))]
         LoginResponse Login(string username, string password);
@@ -20,10 +19,6 @@ namespace VWW.Samples.Chat.Contracts
         [OperationContract(IsOneWay = true)]
         void SendBroadcast(string msg);
         [OperationContract]
-        int SystemStatusRequest();
-        [OperationContract]
         string[] SendMessage(string message, string[] targets);
-        [OperationContract]
-        void UploadModule(string v);
     }
 }

@@ -16,7 +16,5 @@ namespace VWW.Samples.Chat.Client
 
         void SendBroadcast(string msg);
         void SendMessage(string message, IEnumerable<string> targets);
-        int SystemStatusRequest();
-        void UploadModule(string v);
     }
 }
